@@ -1,9 +1,4 @@
-Edit in JSFiddle
-JavaScript
-HTML
-CSS
-Result
-//Test browser support
+
 const SUPPORTS_MEDIA_DEVICES = 'mediaDevices' in navigator;
 
 if (SUPPORTS_MEDIA_DEVICES) {
